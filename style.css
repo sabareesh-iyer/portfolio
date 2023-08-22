@@ -9,7 +9,7 @@
 /* Media query for smaller screens or zoomed out views */
 @media (min-width: 1024px) {
   body {
-    zoom: 100%;
+    zoom: 98.5%;
     transform: scale(0.8);
     transform-origin: 0 0;
   }
